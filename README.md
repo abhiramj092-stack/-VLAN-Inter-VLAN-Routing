@@ -1,4 +1,4 @@
-# 🌐 VLAN & Inter-VLAN Routing — EEE Mini Project
+# 🌐 VLAN & Inter-VLAN Routing
 
 > **Cisco Packet Tracer** simulation implementing VLAN segmentation and Inter-VLAN routing using a **Cisco ISR4331 Router** (ROAS) and **Cisco 3560-24PS Multilayer Switch** (L3 Switch SVI method).
 
