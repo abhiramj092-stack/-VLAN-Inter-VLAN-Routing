@@ -474,3 +474,5 @@ vlan-inter-vlan-routing/
 4. Lammle, T. (2020). *CCNA Cisco Certified Network Associate Study Guide.* Sybex.
 5. Cisco Networking Academy. *CCNA: Switching, Routing, and Wireless Essentials.* https://www.netacad.com
 
+## 📸 Topology
+
