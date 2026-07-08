@@ -475,4 +475,4 @@ vlan-inter-vlan-routing/
 5. Cisco Networking Academy. *CCNA: Switching, Routing, and Wireless Essentials.* https://www.netacad.com
 
 ## 📸 Topology
-
+![image](intervlan-routing.png)
